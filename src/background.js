@@ -114,7 +114,7 @@ chrome.webRequest.onCompleted.addListener(
     }
   },
   {
-    urls: ["*://vtop.vit.ac.in/*"],
+    urls: ["*://vtop.vit.ac.in/*","*://vtop2.vitap.ac.in/*"],
   }
 );
 
